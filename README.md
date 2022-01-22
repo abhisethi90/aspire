@@ -1,4 +1,4 @@
-# Gojek Web Automation Framework
+# Web Automation Framework
 
 This is a Web Automation Framework built using Selenium + Java + TestNG + Gradle
 
